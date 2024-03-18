@@ -48,3 +48,4 @@ const Order = sequelize.define('orders',{
 });
 
 sequelize.sync();
+
